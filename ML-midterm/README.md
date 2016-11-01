@@ -14,7 +14,7 @@
         2. Also find out the bias and variance when there are four data points per dataset.
 
 ##Runing sample
-    ![Result for Model1](sample-result/result-for-model1.png)
-    ![Result for Model2](sample-result/result-for-model2.png)
+   ![Result for Model1](sample-result/result-for-model1.png)
+   ![Result for Model2](sample-result/result-for-model2.png)
 
 
