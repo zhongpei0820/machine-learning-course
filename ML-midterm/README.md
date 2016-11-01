@@ -10,7 +10,8 @@
 
     Model 2 : h(x) = ax + b (linear model)
 
-    *Q* : Work out the bias and variance for both models. Also find out the bias and variance when there are four data points per dataset.
+    **Q** : 1. Work out the bias and variance for both models.
+        2. Also find out the bias and variance when there are four data points per dataset.
 
 ##Runing sample
     ![Result for Model1](sample-result/result-for-model1.png)
