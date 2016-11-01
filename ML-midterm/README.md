@@ -15,8 +15,11 @@
 
 ##Runing sample
 Result for Model 1 : Three-point dataset, four-point dataset and five-point dataset from left to right:
+
    ![Result for Model1](sample-result/result-for-model1.png)
+   
 Result for Model 2 : Three-point dataset, four-point dataset and five-point dataset from left to right:
+
    ![Result for Model2](sample-result/result-for-model2.png)
 
 
