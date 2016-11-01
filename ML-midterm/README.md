@@ -2,7 +2,7 @@
 
 ##Bias and Variance trade-off
 
-   Target function : f(x) = x ^ 2
+    Target function : f(x) = x ^ 2
 
    Datasets : {{x1,x1^2},{x2,x2^2}...}
 
